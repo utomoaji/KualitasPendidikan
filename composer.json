@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {"PHPMVC\\": "App/"}
+    },
+    "require": {
+        "nesbot/carbon": "^2.5",
+        "ext-gd": "*",
+        "phpoffice/phpspreadsheet": "^1.18"
+
+    }
+    
+}
